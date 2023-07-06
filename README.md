@@ -31,3 +31,7 @@ For the configuration file and the file with requests, you must use the json str
 After the application finishes its work, a message will be displayed in the  field "Результат выполнения запроса" with the result of processing the request.
 
 If errors were detected while the application was running, they will be displayed in the field "Ошибки выполнения запроса".
+
+
+### :grey_exclamation: 
+If you have changed the application code, you can run tests to verify that it works correctly.
